@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Greatings!
+
+MaryAnn here, I like HTML and CSS. :)
